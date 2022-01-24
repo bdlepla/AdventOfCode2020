@@ -1,0 +1,1 @@
+data class Rule(val parentName:String, val quantity:Int, val child:String)
